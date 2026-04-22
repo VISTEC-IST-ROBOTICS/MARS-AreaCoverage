@@ -1,0 +1,28 @@
+env_statistic:
+  task_cells_num: 2500
+  swept_cells_num: 2500
+agents_statistic:
+  agent_4:
+    move_count: 810
+    swept_count: 561
+  agent_7:
+    move_count: 588
+    swept_count: 490
+  agent_2:
+    move_count: 421
+    swept_count: 337
+  agent_5:
+    move_count: 451
+    swept_count: 408
+  agent_3:
+    move_count: 477
+    swept_count: 350
+  agent_1:
+    move_count: 6388
+    swept_count: 2121
+  agent_0:
+    move_count: 805
+    swept_count: 521
+  agent_6:
+    move_count: 672
+    swept_count: 580

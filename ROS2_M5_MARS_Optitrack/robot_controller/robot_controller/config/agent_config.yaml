@@ -1,0 +1,12 @@
+ant_1:
+  current_pos_topic: "/vrpn_mocap/ant_1/pose"
+  target_pos_topic: "/ant_1/target_pose"
+ant_2:
+  current_pos_topic: "vrpn_mocap/ant_2/pose"
+  target_pos_topic: "/ant_2/target_pose"
+ant_3:
+  current_pos_topic: "/vrpn_mocap/ant_3/pose"
+  target_pos_topic: "/ant_3/target_pose"
+ant_4:
+  current_pos_topic: "/vrpn_mocap/ant_4/pose"
+  target_pos_topic: "/ant_4/target_pose"

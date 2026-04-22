@@ -1,0 +1,6 @@
+[console_scripts]
+env_node = robot_controller.env_node:main
+robot_controller_node = robot_controller.robot_controller_node:main
+robot_nav_node = robot_controller.robot_nav_node:main
+sweeping_agent = robot_controller.sweeping_agent:main
+

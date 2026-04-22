@@ -1,0 +1,67 @@
+[0.403s] Invoking command in '/home/meng/microros_agent_ws/robot_controller': PYTHONPATH=/home/meng/microros_agent_ws/robot_controller/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/robot_controller build --build-base /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build install --record /home/meng/microros_agent_ws/robot_controller/build/robot_controller/install.log --single-version-externally-managed install_data
+[0.566s] running egg_info
+[0.566s] creating build/robot_controller/robot_controller.egg-info
+[0.567s] writing build/robot_controller/robot_controller.egg-info/PKG-INFO
+[0.567s] writing dependency_links to build/robot_controller/robot_controller.egg-info/dependency_links.txt
+[0.567s] writing entry points to build/robot_controller/robot_controller.egg-info/entry_points.txt
+[0.567s] writing requirements to build/robot_controller/robot_controller.egg-info/requires.txt
+[0.567s] writing top-level names to build/robot_controller/robot_controller.egg-info/top_level.txt
+[0.567s] writing manifest file 'build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.569s] reading manifest file 'build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.569s] writing manifest file 'build/robot_controller/robot_controller.egg-info/SOURCES.txt'
+[0.569s] running build
+[0.569s] running build_py
+[0.569s] creating /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build
+[0.569s] creating /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib
+[0.569s] creating /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.569s] copying robot_controller/robot_controller_node.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.569s] copying robot_controller/env_node.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/playground.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/robot_nav_node.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/sweeping_agent.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/MALC_environment.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/geometry_lib.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/__init__.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/critical_check.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] copying robot_controller/MALC_agent.py -> /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller
+[0.570s] running install
+[0.571s] running install_lib
+[0.571s] creating /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.571s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/robot_controller_node.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.571s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/env_node.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.571s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/playground.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.571s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/robot_nav_node.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.571s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/sweeping_agent.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.572s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/MALC_environment.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.572s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/geometry_lib.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.572s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/__init__.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.572s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/critical_check.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.572s] copying /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build/lib/robot_controller/MALC_agent.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller
+[0.572s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/robot_controller_node.py to robot_controller_node.cpython-310.pyc
+[0.573s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/env_node.py to env_node.cpython-310.pyc
+[0.576s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/playground.py to playground.cpython-310.pyc
+[0.576s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/robot_nav_node.py to robot_nav_node.cpython-310.pyc
+[0.579s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/sweeping_agent.py to sweeping_agent.cpython-310.pyc
+[0.581s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/MALC_environment.py to MALC_environment.cpython-310.pyc
+[0.582s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/geometry_lib.py to geometry_lib.cpython-310.pyc
+[0.583s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.583s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/critical_check.py to critical_check.cpython-310.pyc
+[0.583s] byte-compiling /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller/MALC_agent.py to MALC_agent.cpython-310.pyc
+[0.588s] running install_data
+[0.588s] creating /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/ament_index
+[0.588s] creating /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/ament_index/resource_index
+[0.589s] creating /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/ament_index/resource_index/packages
+[0.589s] copying resource/robot_controller -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/ament_index/resource_index/packages
+[0.589s] copying package.xml -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/robot_controller
+[0.589s] creating /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/robot_controller/launch
+[0.589s] copying launch/mars_launch.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/robot_controller/launch
+[0.589s] copying launch/single_robot_launch.py -> /home/meng/microros_agent_ws/robot_controller/install/robot_controller/share/robot_controller/launch
+[0.589s] running install_egg_info
+[0.590s] Copying build/robot_controller/robot_controller.egg-info to /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages/robot_controller-0.0.0-py3.10.egg-info
+[0.591s] running install_scripts
+[0.605s] Installing env_node script to /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/robot_controller
+[0.605s] Installing robot_controller_node script to /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/robot_controller
+[0.605s] Installing robot_nav_node script to /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/robot_controller
+[0.605s] Installing sweeping_agent script to /home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/robot_controller
+[0.605s] writing list of installed files to '/home/meng/microros_agent_ws/robot_controller/build/robot_controller/install.log'
+[0.627s] Invoked command in '/home/meng/microros_agent_ws/robot_controller' returned '0': PYTHONPATH=/home/meng/microros_agent_ws/robot_controller/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meng/microros_agent_ws/robot_controller/install/robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/robot_controller build --build-base /home/meng/microros_agent_ws/robot_controller/build/robot_controller/build install --record /home/meng/microros_agent_ws/robot_controller/build/robot_controller/install.log --single-version-externally-managed install_data

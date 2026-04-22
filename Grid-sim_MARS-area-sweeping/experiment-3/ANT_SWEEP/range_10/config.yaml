@@ -1,0 +1,50 @@
+agents:
+  behavior: ANT_SWEEP
+  color: orange
+  color_list:
+  - blue
+  - orange
+  - green
+  - pink
+  - brown
+  - purple
+  - yellow
+  communication_range: 10
+  id_prefix: agent_
+  number_of_agents: 8
+  starting_position: random
+communication:
+  protocol: TCP
+  server_port:
+  - 5000
+  - 5001
+  - 5002
+  - 5003
+  - 5004
+  - 5005
+  - 5006
+  - 5007
+  - 5008
+  - 5009
+  - 5010
+  - 5011
+  - 5012
+file_dir: experiment-3\ANT_SWEEP\range_10\experiment_log
+grid:
+  cols: 50
+  obstacles: []
+  rows: 50
+max_agent_run_step: 10000
+parallel_simulation: 10
+repeat_simulation: 10
+ui:
+  agent_color: '#0000FF'
+  background_color: '#FFFFFF'
+  dynamic_element_color: '#00FF00'
+  enabled: false
+  grid_color: '#CCCCCC'
+  obstacle_color: black
+  resolution:
+  - 1000
+  - 1000
+  update_interval: 100

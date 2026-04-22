@@ -1,0 +1,6 @@
+{
+  "package_name": "robot_controller",
+  "non_idl_tuples": [
+    "/home/meng/microros_agent_ws/robot_controller:srv/CellObservation.srv"
+  ]
+}

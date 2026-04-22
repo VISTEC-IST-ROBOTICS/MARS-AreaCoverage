@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>robot_controller</name>
+  <version>0.0.0</version>
+  <description>Robot controller node</description>
+  <maintainer email="meng.inventor@gmail.com">meng</maintainer>
+  <license>MIT</license>
+
+  <!-- Python dependencies -->
+  <buildtool_depend>ament_python</buildtool_depend>
+  <build_depend>rclpy</build_depend>
+  <exec_depend>rclpy</exec_depend>
+
+  <!-- Interface dependency -->
+  <depend>robot_controller_interfaces</depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+

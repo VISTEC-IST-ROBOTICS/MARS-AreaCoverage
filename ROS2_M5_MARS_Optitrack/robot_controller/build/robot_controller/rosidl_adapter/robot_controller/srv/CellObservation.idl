@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from robot_controller/srv/CellObservation.srv
+// generated code does not contain a copyright notice
+
+
+module robot_controller {
+  module srv {
+    struct CellObservation_Request {
+      int32 col;
+
+      int32 row;
+    };
+    struct CellObservation_Response {
+      boolean occupied;
+    };
+  };
+};

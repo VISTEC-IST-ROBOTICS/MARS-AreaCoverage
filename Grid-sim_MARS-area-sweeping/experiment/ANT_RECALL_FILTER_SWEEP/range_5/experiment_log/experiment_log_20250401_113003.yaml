@@ -1,0 +1,28 @@
+env_statistic:
+  task_cells_num: 900
+  swept_cells_num: 900
+agents_statistic:
+  agent_3:
+    move_count: 2016
+    swept_count: 108
+  agent_6:
+    move_count: 2020
+    swept_count: 91
+  agent_5:
+    move_count: 2011
+    swept_count: 142
+  agent_7:
+    move_count: 2023
+    swept_count: 141
+  agent_1:
+    move_count: 2024
+    swept_count: 53
+  agent_0:
+    move_count: 2024
+    swept_count: 143
+  agent_4:
+    move_count: 2016
+    swept_count: 99
+  agent_2:
+    move_count: 2002
+    swept_count: 168
