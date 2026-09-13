@@ -1,6 +1,3 @@
-Absolutely! Here's the **full `README.md`** as a Markdown script you can directly save into your package directory:
-
----
 
 ```markdown
 # Robot Controller
