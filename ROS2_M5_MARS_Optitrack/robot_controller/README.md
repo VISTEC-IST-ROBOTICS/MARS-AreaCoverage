@@ -1,5 +1,4 @@
 
-```markdown
 # Robot Controller
 
 This ROS 2 package controls a robot using pose data from an OptiTrack motion capture system via `vrpn_mocap`, and sends velocity commands to the robot. The robot receives commands through `/robot_1/cmd_vel`, and pose is received from `/vrpn_mocap/robot_1/pose`.
